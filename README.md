@@ -42,4 +42,4 @@ pip install -r requirements.txt
 jupyter notebook fake_news_detection.ipynb
 
 4. **(Optional) Run with Streamlit**
-streamlit run app.py
+streamlit run fake_news_detection.py
