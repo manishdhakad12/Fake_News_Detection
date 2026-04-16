@@ -1,0 +1,400 @@
+title,text,label
+"NASA Finds Water on Mars","NASA announced today that they have found water on Mars, opening possibilities for life.",REAL
+"Aliens Abduct Politician","A local politician was reportedly abducted by aliens according to witnesses.",FAKE
+"Economy Growth Hits New High","The government reports a record-breaking economic growth this quarter.",REAL
+"Celebrity Marries Ghost","A celebrity has claimed to marry a 300-year-old ghost in a private ceremony.",FAKE
+"Breakthrough in Cancer Research","Scientists have made a breakthrough in cancer treatment that could save millions.",REAL
+"Dinosaurs Seen in the Forest","Local hikers claim to have seen living dinosaurs in the nearby forest.",FAKE
+"Stock Markets Surge","Stock markets reached new highs today following economic policy announcements.",REAL
+"Time Traveler Arrested","A man claiming to be from the future was arrested for predicting events accurately.",FAKE
+"New Vaccine Developed","A new vaccine has been developed that prevents multiple viral infections.",REAL
+"City Submerged by 2050","Scientists warn that major cities will be submerged underwater by 2050.",FAKE
+"Government Passes Education Bill","The parliament passed a new education reform bill today.",REAL
+"Alien Spaceship Found in Desert","An alien spaceship was reportedly found in the Sahara Desert.",FAKE
+"Climate Change Report Released","A new report details the severe effects of climate change.",REAL
+"Man Communicates with Animals","A man claims he can talk to animals through telepathy.",FAKE
+"New Solar Technology Invented","Scientists have invented a new type of efficient solar panel.",REAL
+"Vampires Spotted in Romania","Residents report seeing vampires in a Romanian village.",FAKE
+"Medical Breakthrough for Diabetes","Doctors discover a natural way to control blood sugar levels.",REAL
+"Superhero Seen Flying","A superhero was reportedly seen flying over New York City.",FAKE
+"SpaceX Launch Successful","SpaceX successfully launched a new rocket into orbit.",REAL
+"Haunted Phone Calls","People receive phone calls from deceased relatives.",FAKE
+"New AI Can Diagnose Diseases","A new AI system can accurately diagnose diseases from images.",REAL
+"Mermaid Spotted by Fishermen","Fishermen claim to have seen a mermaid off the coast.",FAKE
+"Global Literacy Rates Rise","UNESCO reports a significant increase in global literacy rates.",REAL
+"Man Lifts Car With Mind","A man reportedly lifted a car using telekinesis.",FAKE
+"Scientists Discover New Planet","Astronomers discovered a new Earth-like planet.",REAL
+"Woman Lives Without Food","A woman claims to have lived without food for a year.",FAKE
+"Breakthrough in Alzheimer’s Treatment","New drug shows promise in reversing Alzheimer’s symptoms.",REAL
+"Talking Dog Appears on TV","A talking dog amazed audiences on a live TV show.",FAKE
+"New Renewable Energy Source Found","Researchers found a clean energy source that could replace fossil fuels.",REAL
+"Aliens Land in City","Multiple witnesses claim to have seen an alien spaceship land.",FAKE
+"Electric Cars Outsell Petrol Cars","Electric car sales surpass petrol cars for the first time.",REAL
+"City to Ban Gravity","A city council plans to ban gravity next month.",FAKE
+"New Ocean Species Discovered","Scientists discover a new species in the Mariana Trench.",REAL
+"Psychic Predicts End of World","A psychic predicts the world will end next Tuesday.",FAKE
+"Robot Performs Heart Surgery","A robot successfully performs complex heart surgery.",REAL
+"Man Claims to be Reincarnated Pharaoh","A man says he remembers his past life as an Egyptian pharaoh.",FAKE
+"Global Poverty Drops","World Bank reports a major decline in global poverty.",REAL
+"Ghost Car Seen Driving Itself","A car without a driver was seen on the highway.",FAKE
+"New App Helps Detect Diseases","An app can now detect early signs of illnesses.",REAL
+"Aliens Build Pyramid","Aliens were credited for building ancient pyramids.",FAKE
+"New Cancer Detection Tool Developed","Doctors develop a tool that detects cancer in early stages.",REAL
+"Superhuman Strength Discovered","A man lifts 5 cars with his bare hands.",FAKE
+"Government Reduces Taxes","The government announced a major tax cut today.",REAL
+"Time Machine Prototype Built","Scientists build the first working time machine prototype.",FAKE
+"Sea Levels Rise by 3 Inches","New study shows sea levels have risen by 3 inches globally.",REAL
+"Alien Baby Born","A woman claims to have given birth to an alien.",FAKE
+"Breakthrough in Battery Technology","A new battery can charge in 5 minutes and last 3 days.",REAL
+"Vampire Detected in Hospital","A vampire was reportedly found in a hospital room.",FAKE
+"India Launches New Satellite","ISRO successfully launched a new communication satellite.",REAL
+"Talking Plant Discovered","A plant that can speak human languages was discovered.",FAKE
+"Global Internet Access Expands","Internet access reaches 95% of the global population.",REAL
+"Man Becomes Invisible","A man disappears using secret technology.",FAKE
+"Medical Drone Delivers Organs","Drones successfully delivered transplant organs.",REAL
+"Loch Ness Monster Found","Scientists claim to have captured the Loch Ness Monster.",FAKE
+"Government Launches Healthcare Scheme","A new scheme aims to provide free healthcare to citizens.",REAL
+"Aliens Control The Moon","Conspiracy theorists claim aliens control the moon.",FAKE
+"Breakthrough in Clean Water Technology","New tech makes seawater drinkable at low cost.",REAL
+"Zombie Virus Spreads","A zombie virus outbreak has been reported.",FAKE
+"Company Creates 3D Printed Homes","A company builds homes using 3D printing technology.",REAL
+"Wizard Seen in London","A man dressed as a wizard performed real magic.",FAKE
+"Renewable Energy Use Surges","Renewable energy now supplies 60% of global electricity.",REAL
+"Ancient City Found Under Ocean","Divers found a lost city beneath the Atlantic Ocean.",FAKE
+"Electric Plane Completes Flight","The world's first electric plane successfully completes a test flight.",REAL
+"Man Discovers Fountain of Youth","A man claims to have found a fountain that reverses aging.",FAKE
+"Breakthrough in Plastic Recycling","Scientists invent a method to recycle plastics endlessly.",REAL
+"Mermaid School Opens","A school teaches people how to become mermaids.",FAKE
+"Child Prodigy Solves Complex Math Problem","A 10-year-old solves a university-level problem.",REAL
+"Alien Message Intercepted","NASA intercepts a message from extraterrestrials.",FAKE
+"Doctors Perform Brain Transplant","Doctors successfully perform the first brain transplant.",FAKE
+"Global Greenhouse Gas Emissions Fall","Carbon emissions fell by 10% this year.",REAL
+"Flying Taxi Service Launched","A company starts the first flying taxi service.",REAL
+"Supervillain Escapes Prison","A dangerous supervillain has escaped a high-security prison.",FAKE
+"AI Defeats World Chess Champion","An AI defeats the reigning world chess champion.",REAL
+"Haunted Museum Reopens","A haunted museum reopens with new ghost tours.",FAKE
+"New Ice Age Predicted","Scientists predict an ice age will begin in 2025.",FAKE
+"World’s Largest Solar Farm Opens","The largest solar farm starts operations in the desert.",REAL
+"Robot Teaches School Classes","A humanoid robot is now teaching primary school students.",FAKE
+"Global Hunger Rates Decline","UN reports a 20% drop in global hunger over the past decade.",REAL
+"Bigfoot Spotted in Yellowstone","Tourists claim to have photographed Bigfoot in Yellowstone Park.",FAKE
+"New Law Bans Single-Use Plastics","Government passes legislation to ban single-use plastics nationwide.",REAL
+"Woman Gives Birth to Twin Planets","A woman claims her newborns are reincarnated planets.",FAKE
+"COVID-19 Eradicated in Europe","WHO declares Europe free of COVID-19 after zero cases for 6 months.",REAL
+"Elvis Presley Seen Alive","Fans swear Elvis was spotted at a gas station in Memphis.",FAKE
+"Lab-Grown Meat Approved for Sale","Regulators approve lab-grown meat for public consumption.",REAL
+"Wizard Cures All Diseases","A self-proclaimed wizard offers magical cures for every illness.",FAKE
+"Satellite Detects Lost Atlantis","Satellite images reveal structures matching Atlantis myths.",FAKE
+"Malaria Vaccine Rollout Begins","WHO launches malaria vaccine in high-risk regions.",REAL
+"Time-Traveling Tourist Vanishes","A man claiming to be a time traveler disappears in public.",FAKE
+"World’s Tallest Building Completed","A 1.5km-tall skyscraper opens in Dubai.",REAL
+"Vampire Bats Invade Texas","Giant vampire bats reportedly attack livestock in Texas.",FAKE
+"AI Writes Bestselling Novel","An AI-authored novel tops The New York Times bestseller list.",REAL
+"Ghostly Army Seen at Gettysburg","Visitors report seeing Civil War soldiers marching at night.",FAKE
+"Ocean Cleanup Project Succeeds","Nonprofit removes 90% of Pacific garbage patch.",REAL
+"Man Claims to Be Santa Claus","A man says he’s the real Santa and owns a magic sleigh.",FAKE
+"First Human Clone Born","Scientists confirm the birth of the first cloned human.",FAKE
+"Global Life Expectancy Rises","Average global life expectancy reaches 75 years.",REAL
+"Werewolf Attacks in Canada","Hikers report being chased by a werewolf in Alberta.",FAKE
+"Self-Healing Concrete Invented","New concrete repairs its own cracks using bacteria.",REAL
+"Moon Landing Was Filmed in Studio","Conspiracy theorists say the 1969 moon landing was faked.",FAKE
+"Breakthrough in Fusion Energy","Scientists achieve net-positive fusion energy output.",REAL
+"Dragons Found in Remote Cave","Explorers find giant bones resembling dragon skeletons.",FAKE
+"Universal Basic Income Implemented","Country becomes first to adopt universal basic income.",REAL
+"Teleportation Experiment Succeeds","Scientists teleport an object across a lab.",FAKE
+"Endangered Species Rebound","Panda and tiger populations double in 10 years.",REAL
+"Alien Plants Invade Earth","Mysterious plants with glowing sap appear overnight.",FAKE
+"World’s First Carbon-Neutral City","A city achieves zero carbon emissions.",REAL
+"Giant Spider Web Covers Town","A town is engulfed by a spider web overnight.",FAKE
+"CRISPR Cures Genetic Disease","Gene-editing technology eliminates a hereditary disorder.",REAL
+"Chupacabra Kills Farm Animals","Farmers blame chupacabra for livestock deaths.",FAKE
+"Desert Turns into Forest","Reforestation project revives a dead ecosystem.",REAL
+"Witch Curses Entire Village","A village falls ill after a witch’s curse.",FAKE
+"Lab-Grown Organs Save Lives","First successful transplant of lab-grown lungs.",REAL
+"Living Statue Terrorizes Town","A statue allegedly moves and attacks people.",FAKE
+"Antarctic Ice Loss Slows","Satellite data shows reduced ice melt in Antarctica.",REAL
+"Zombie Deer Virus Spreads","A virus turns deer into aggressive ‘zombies’.",FAKE
+"Vertical Farms Feed Megacities","Skyscraper farms produce 50% of a city’s vegetables.",REAL
+"Giant Rainbow Appears Worldwide","A rainbow spans the entire sky for 24 hours.",FAKE
+"Autonomous Ships Cross Ocean","Self-navigating cargo ships complete maiden voyage.",REAL
+"Yeti Attacks Ski Resort","Skiers flee from a yeti in the Swiss Alps.",FAKE
+"Plastic-Eating Bacteria Discovered","Bacteria evolved to break down plastic waste.",REAL
+"Ghost Ship Drifts into Harbor","An abandoned 18th-century ship appears mysteriously.",FAKE
+"Global Child Mortality Halved","UNICEF reports a 50% drop in child deaths since 2000.",REAL
+"Martian Artifacts Found on Earth","Rocks containing Martian hieroglyphs discovered.",FAKE
+"Wind Power Cheaper Than Coal","Renewable energy now undercuts fossil fuels globally.",REAL
+"Village Claims Immortality Secret","A remote village says no one has died in 100 years.",FAKE
+"First Anti-Aging Pill Approved","FDA approves a drug that slows aging in humans.",REAL
+"Giant Sinkhole Swallows Stadium","A stadium vanishes into a 500m-deep sinkhole.",FAKE
+"Solar Roads Power Cities","Roads with solar panels generate electricity for towns.",REAL
+"Pirate Ghosts Haunt Caribbean","Ships report seeing phantom pirates on the high seas.",FAKE
+"Cancer Mortality Drops 30%","Improved treatments reduce cancer deaths significantly.",REAL
+"Man Turns into Werewolf on Live TV","A news anchor transforms during a broadcast.",FAKE
+"Ozone Layer Fully Healed","The ozone hole over Antarctica closes completely.",REAL
+"Atlantis Rises from Ocean","A landmass emerges where Atlantis was theorized.",FAKE
+"Electric Airplanes Go Mainstream","Airlines order 100+ electric planes for short-haul flights.",REAL
+"Demon Possesses Entire Family","A family speaks in tongues and levitates, say priests.",FAKE
+"World’s Largest Dam Completed","A dam three times the size of Hoover Dam opens.",REAL
+"UFO Crashes into White House","A UFO allegedly crashes into the White House lawn.",FAKE
+"Lab Meat Tastes Like Real Meat","Blind tests show lab meat indistinguishable from beef.",REAL
+"Village of Vampires Found","A Romanian village admits to vampiric practices.",FAKE
+"Global Literacy Reaches 90%","UNESCO announces historic literacy milestone.",REAL
+"Wizard School Discovered","A hidden school teaches magic to children.",FAKE
+"First Carbon-Neutral Airline","An airline offsets all emissions via reforestation.",REAL
+"Living Dinosaurs in Congo","Explorers claim to find dinosaurs in the Congo Basin.",FAKE
+"HIV Vaccine Trials Succeed","Vaccine shows 95% efficacy in final trials.",REAL
+"Time Portal Opens in Desert","A portal to the past appears in the Sahara.",FAKE
+"World’s Deepest Well Drilled","A 15km-deep well taps into geothermal energy.",REAL
+"Elixir of Life Sold Online","A website sells a potion claiming eternal youth.",FAKE
+"Microplastics Ban Enforced","Government bans microplastics in consumer products.",REAL
+"Giant Ice Cream Mountain Forms","A glacier melts into an ice cream-like substance.",FAKE
+"First Mind-Controlled Prosthetic","Paralyzed patient controls robotic arm with thoughts.",REAL
+"Haunted Doll Museum Burns Down","A museum of cursed dolls mysteriously catches fire.",FAKE
+"Global Bee Population Recovers","Conservation efforts reverse bee decline.",REAL
+"Alien Language Decoded","Linguists claim to translate an alien radio signal.",FAKE
+"World’s Longest Bridge Opens","A 100km bridge connects two countries.",REAL
+"Lake Monster Attacks Swimmers","Locals blame a monster for disappearances in a lake.",FAKE
+"All-Electric City Announced","A city plans to run entirely on renewable energy.",REAL
+"Garden of Eden Found","Archaeologists claim to find the Biblical Eden.",FAKE
+"Autism Diagnosis via AI","AI can now diagnose autism from toddler videos.",REAL
+"Ghostly Train Appears at Station","A phantom train arrives at midnight, then vanishes.",FAKE
+"Global Homelessness Drops 40%","Housing initiatives slash homelessness rates.",REAL
+"Supervolcano Warning Issued","Scientists predict Yellowstone eruption in 2024.",FAKE
+"First Carbon-Negative Country","A nation removes more CO2 than it emits.",REAL
+"Flying Cars Hit the Market","FAA approves first commercial flying car model.",FAKE
+"World’s Smallest Computer Invented","A computer the size of a grain of rice debuts.",REAL
+"Giant Footprint Found on Beach","A 5m-long humanoid footprint appears overnight.",FAKE
+"Malaria Eliminated in 10 Countries","WHO certifies malaria-free status in a decade.",REAL
+"Witch Trial Reenactment Turns Real","Accused ‘witch’ floats during mock trial.",FAKE
+"Lab-Grown Diamonds Disrupt Market","Synthetic diamonds now outsell natural ones.",REAL
+"Living Mummy Discovered","A mummy’s heart allegedly starts beating.",FAKE
+"Global Suicide Rates Decline","Mental health campaigns reduce suicides by 25%.",REAL
+"Alien Fossils Found on Moon","NASA allegedly hides evidence of lunar fossils.",FAKE
+"World’s Fastest Train Launched","A train reaches 600 km/h on magnetic tracks.",REAL
+"Zombie Apocalypse Drill Held","Government holds a mock zombie outbreak exercise.",FAKE
+"First 3D-Printed Heart Transplant","Surgeons implant a 3D-printed heart successfully.",REAL
+"Giant Eyeball Washes Ashore","A beach is closed after a giant eyeball discovery.",FAKE
+"Antibiotic-Resistant Bacteria Defeated","New drug kills previously invincible bacteria.",REAL
+"Village of Real-Life Hobbits Found","A tribe claims descent from Tolkien’s hobbits.",FAKE
+"Ocean Temperatures Stabilize","Global ocean warming slows unexpectedly.",REAL
+"Ghostly Children Seen in School","A closed school echoes with laughter and footsteps.",FAKE
+"First Human-Machine Hybrid Born","A baby is born with a computer-enhanced brain.",FAKE
+"Global Air Pollution Falls","Clean energy policies cut pollution by 30%.",REAL
+"Living T-Rex Captured in Jungle","A documentary crew films a living dinosaur.",FAKE
+"First Deafblind Person Cured","Gene therapy restores hearing and sight.",REAL
+"Haunted Painting Moves on Its Own","A museum’s painting changes scenes overnight.",FAKE
+"World’s Largest Battery Installed","A battery powers a city for 24 hours.",REAL
+"Werewolf DNA Discovered","Scientists claim to identify ‘werewolf gene’.",FAKE
+"Autonomous Farming Goes Global","Robots now manage 20% of the world’s farms.",REAL
+"Time Loop Traps Entire Town","A town relives the same day repeatedly.",FAKE
+"First Zero-Waste City Achieved","A city recycles or composts 100% of its waste.",REAL
+"Alien Hybrid Baby Born","A woman gives birth to a child with ‘alien traits’.",FAKE
+"Global Wildfire Incidents Drop","Improved forestry cuts wildfires by 40%.",REAL
+"Vampire Cure Discovered","A scientist claims to have cured vampirism.",FAKE
+"First Human Head Transplant","Surgeons successfully transplant a human head.",FAKE
+"World’s Quietest Room Built","A room absorbs 99.9% of sound.",REAL
+"Giant Snowballs Fall from Sky","Baseball-sized snowballs pelt a town.",FAKE
+"CRISPR Eliminates Allergies","Gene-editing wipes out peanut allergies in trials.",REAL
+"Ghostly Orchestra Heard at Night","A phantom orchestra plays in an abandoned theater.",FAKE
+"First Carbon-Free Steel Produced","Steel industry achieves zero-emissions production.",REAL
+"Living Unicorn Found in Forest","A horse with a horn is discovered in Germany.",FAKE
+"Global Internet Speeds Double","5G and fiber optics boost speeds worldwide.",REAL
+"Demon Cat Haunts Library","A black cat vanishes into bookshelves.",FAKE
+"First Synthetic Human Created","Scientists grow a human from lab-made cells.",FAKE
+"World’s Largest Coral Reef Restored","Coral coverage rebounds to 1980s levels.",REAL
+"Time Traveler Predicts Doom","A man from 2050 warns of an impending disaster.",FAKE
+"World’s First Hoverboard Released","A tech company unveils a working hoverboard that defies gravity.",FAKE
+"Global Child Vaccination Rates Soar","WHO reports 90% of children now receive basic vaccinations.",REAL
+"Giant Meteor to Hit Earth in 2026","NASA predicts a catastrophic meteor impact in three years.",FAKE
+"First Fully Automated Restaurant Opens","Robots cook and serve meals without human intervention.",REAL
+"Man Claims to Be Jesus Reincarnated","A man in Jerusalem says he is the second coming of Christ.",FAKE
+"Breakthrough in Quantum Computing","Scientists achieve quantum supremacy with a 1000-qubit processor.",REAL
+"Ghost Town Found in Antarctica","Explorers discover an abandoned city under Antarctic ice.",FAKE
+"Global Coffee Shortage Ends","New farming techniques boost coffee production by 40%.",REAL
+"Woman Gives Birth to 10 Babies","A South African woman sets a record with decuplets.",FAKE
+"Solar-Powered Cars Hit the Market","Affordable solar cars now available for public purchase.",REAL
+"Ancient Viking Ship Appears in Lake","Locals report a fully intact Viking ship surfacing overnight.",FAKE
+"Malaria Cases Drop by 75%","New mosquito-control strategies slash infection rates.",REAL
+"Alien Artifact Found in Backyard","A man digs up a metallic object emitting strange signals.",FAKE
+"First Lab-Grown Fish Approved","Cultivated salmon passes FDA safety tests.",REAL
+"Haunted Mirror Curses Owners","A mirror allegedly causes accidents for anyone who buys it.",FAKE
+"Global Literacy for Women Reaches 85%","UN reports historic progress in female education.",REAL
+"Man Claims to Control Weather","A self-proclaimed ‘weather wizard’ demands payment for clear skies.",FAKE
+"World’s Largest Wind Farm Operational","A 500-turbine farm now powers 3 million homes.",REAL
+"Living Fairy Found in Garden","A woman films a tiny winged humanoid in her backyard.",FAKE
+"First Successful Pig-to-Human Heart Transplant","A genetically modified pig heart saves a patient’s life.",REAL
+"Time-Traveling Tourist Posts Selfie","A man shares a 19th-century photo with his modern face.",FAKE
+"Global Poverty at Lowest in History","World Bank data shows only 5% live in extreme poverty.",REAL
+"Vampire Bats Escape Zoo","A zoo reports missing bats that ‘drink human blood’.",FAKE
+"AI Detects Early Signs of Dementia","Algorithm predicts Alzheimer’s years before symptoms.",REAL
+"Giant Human Skeleton Unearthed","Archaeologists find a 10-foot-tall skeleton in Peru.",FAKE
+"Plastic Waste Turned into Fuel","New technology converts trash into clean energy.",REAL
+"Witch’s Curse Causes Town Blackout","A power outage coincides with a witch’s trial.",FAKE
+"First Carbon-Neutral Airline Flight","A plane crosses the Atlantic with zero emissions.",REAL
+"Alien Implants Found in Patients","Surgeons remove mysterious objects from abductees.",FAKE
+"Global Wild Tiger Population Doubles","Conservation efforts reverse decades of decline.",REAL
+"Werewolf DNA Discovered in Lab","Scientists claim to isolate a ‘lycanthropy gene’.",FAKE
+"First Synthetic Human Organ Transplant","Lab-grown liver successfully implanted.",REAL
+"Ghostly Army Marches in Fog","Dozens report seeing Civil War soldiers at dawn.",FAKE
+"World’s Fastest Internet Launched","10Gbps speeds now available in major cities.",REAL
+"Man Claims to Speak to Trees","A protestor says ancient trees warned him of disasters.",FAKE
+"Ocean Cleanup Removes 1M Tons","Nonprofit’s tech clears vast plastic from the Pacific.",REAL
+"Zombie Deer Virus Mutates","Scientists fear a strain could infect humans.",FAKE
+"First Mind-Reading Headset Sold","Device translates thoughts into text with 90% accuracy.",REAL
+"Haunted Painting Changes Faces","A portrait’s subject allegedly shifts expressions.",FAKE
+"Global Meat Consumption Drops 30%","Plant-based diets reduce demand for livestock.",REAL
+"Living Mermaid Caught on Camera","Fishermen film a humanoid creature off Greece.",FAKE
+"First Anti-Aging Clinical Trial","Drug shown to reverse aging in mice begins human tests.",REAL
+"Alien Crop Circles Spell Doom","A new crop circle warns of an ‘extinction event’.",FAKE
+"World’s Largest Solar Plant Opens","Facility powers 2 million homes in the Sahara.",REAL
+"Vampire Graves Discovered","Skulls with stakes through hearts found in Bulgaria.",FAKE
+"CRISPR Cures Blindness in Trials","Gene therapy restores vision to 10 patients.",REAL
+"Time Loop Traps Small Town","Residents relive the same day for a month.",FAKE
+"Global Deforestation Halts","Forest regrowth exceeds losses for the first time.",REAL
+"Ghost Ship Drifts into Harbor","A 1800s vessel appears with no crew.",FAKE
+"First 3D-Printed Neighborhood Built","50 homes constructed in a week via 3D printers.",REAL
+"Wizard’s Spell Causes Rainbows","A street performer ‘summons’ rainbows on demand.",FAKE
+"AI Composes Symphony Performed by Orchestra","Algorithm’s music praised by critics.",REAL
+"Bigfoot DNA Matches Unknown Species","Hair samples defy known animal classifications.",FAKE
+"World’s First Vertical Forest City","Skyscrapers covered in trees house 20,000 people.",REAL
+"Demon Possession Epidemic","Hospitals report surge in ‘demonic’ cases.",FAKE
+"First Human-Monkey Hybrid Born","Controversial experiment succeeds in China.",FAKE
+"Global Renewable Energy Tops Coal","Wind/solar now supply more electricity than coal.",REAL
+"Living Dinosaur Captured in Congo","Explorers film a creature resembling a T-Rex.",FAKE
+"Lab-Grown Meat Cheaper Than Beef","Cultivated meat now costs $5 per pound.",REAL
+"Haunted VR Game Curses Players","A game causes hallucinations and bad luck.",FAKE
+"World’s Longest Tunnel Completed","A 100km tunnel connects two continents.",REAL
+"Alien Message Decoded by NASA","Mathematicians translate a signal from Proxima Centauri.",FAKE
+"First Zero-Waste Country Achieved","A nation recycles 99% of its trash.",REAL
+"Vampire Nightclub Busted","A club accused of blood-drinking rituals raided.",FAKE
+"Cancer Survival Rates Hit 80%","Early detection and immunotherapy drive progress.",REAL
+"Time Traveler Predicts Stock Market","A man ‘from 2030’ shares winning trades.",FAKE
+"Global Bee Colonies Recover","Ban on pesticides revives pollinators.",REAL
+"Giant Spider Web Covers Bridge","A web strands cars overnight.",FAKE
+"First Carbon-Negative Cement","New cement absorbs more CO2 than it emits.",REAL
+"Ghostly Voices in Radio Broadcast","Listeners hear WWII-era speeches during live shows.",FAKE
+"World’s First Fusion Power Plant","Clean energy facility powers 500,000 homes.",REAL
+"Werewolf Sightings in Scotland","Hikers report wolf-like humanoids in the Highlands.",FAKE
+"AI Replicates Human Emotions","Robot passes ‘emotional Turing test’.",REAL
+"Ancient City Rises from Ocean","Ruins emerge after an earthquake shifts tectonic plates.",FAKE
+"Global Malnutrition Rates Drop","Fortified foods reduce deficiencies by 50%.",REAL
+"Zombie Preparedness Drill Held","Government trains for ‘undead outbreak’.",FAKE
+"First Human Head Transplant Successful","Surgeons attach a head to a donor body.",FAKE
+"World’s Largest Dam Powers 10 Nations","Mega-dam provides clean energy across borders.",REAL
+"Alien Abductions Spike in Nevada","UFO reports double near Area 51.",FAKE
+"Plastic-Eating Worms Discovered","Larvae digest polyethylene within hours.",REAL
+"Haunted Doll Museum Burns Down","Fire destroys a collection of ‘cursed’ dolls.",FAKE
+"Global Internet Access Reaches 80%","Satellite tech connects remote regions.",REAL
+"Man Claims to Be 200 Years Old","A hermit says he found the ‘fountain of youth’.",FAKE
+"First Carbon-Free Steel Produced","Hydrogen-based process eliminates emissions.",REAL
+"Living Unicorn Found in Forest","DNA tests confirm a horse’s horn is genuine.",FAKE
+"AI Judges Court Cases","Algorithm rules on small-claims disputes.",REAL
+"Ghost Train Appears at Station","A steam engine from 1920 arrives with no passengers.",FAKE
+"World’s Fastest Supercomputer Built","Exascale machine solves problems in seconds.",REAL
+"Vampire Hunting License Issued","A town offers permits to ‘hunt the undead’.",FAKE
+"Global Suicide Rates Decline by 20%","Mental health initiatives save lives.",REAL
+"Alien Bacteria Found in Volcano","Microbes survive in 500°C hydrothermal vents.",FAKE
+"First 3D-Printed Human Heart","Bioprinted heart functions normally in tests.",REAL
+"Time Portal Discovered in Desert","A ‘ripple in space’ allows brief time jumps.",FAKE
+"Ocean Pollution Cut by Half","Global treaty reduces plastic waste by 50%.",REAL
+"Witch’s Curse Causes Drought","A village’s wells dry up after a curse.",FAKE
+"World’s First Solar Highway","Road panels generate power for streetlights.",REAL
+"Giant Eyeball Washes Ashore","Scientists baffled by a 3-foot-wide eyeball.",FAKE
+"CRISPR Eliminates HIV in Monkeys","Gene-editing erases virus from primates.",REAL
+"Ghostly Children Seen in Schoolyard","Footsteps and laughter heard at midnight.",FAKE
+"Global Air Quality Improves","Lockdowns and green policies cut smog.",REAL
+"Living T-Rex Exhibited in Zoo","A dinosaur allegedly cloned from DNA.",FAKE
+"First Deafblind Person Cured","Gene therapy restores sight and hearing.",REAL
+"Haunted Painting Moves on Its Own","Museum staff witness frame shifting.",FAKE
+"World’s Largest Battery Stores Wind","Facility powers a city during outages.",REAL
+"Werewolf DNA Discovered","Scientists claim to find ‘lycanthropy markers’.",FAKE
+"Autonomous Tractors Farm 24/7","Robots plant and harvest crops nonstop.",REAL
+"Time Loop Traps Entire Village","Residents repeat the same day for weeks.",FAKE
+"First Zero-Waste City Achieved","Recycling and composting hit 100%.",REAL
+"Alien Hybrid Baby Born","Infant has ‘unusual DNA’ and glowing eyes.",FAKE
+"Global Wildfire Incidents Drop","Controlled burns prevent megafires.",REAL
+"Vampire Cure Discovered","A doctor claims sunlight therapy works.",FAKE
+"Pentagon Confirms UFO Sightings Over Military Bases", "Declassified documents show unexplained aerial phenomena near sensitive sites.", REAL
+"AI Predicts Earthquake Days in Advance", "A neural network allegedly forecasted a quake with 85% accuracy.", FAKE
+"Doctors Reverse Aging in Human Trials", "A biotech firm claims to have rolled back biological age by 20 years.", FAKE
+"Lost City Discovered in Amazon", "Satellite images reveal structures matching ancient legends.", REAL
+"COVID-19 Originated in Lab, Says Leaked Report", "An unnamed source claims evidence of lab manipulation.", FAKE
+"Congress Passes Law Mandating 4-Day Workweek", "Bill guarantees 3-day weekends for all Americans.", FAKE
+"Scientists Clone Woolly Mammoth", "Russian and Korean team announce successful resurrection.", FAKE
+"New Study: Chocolate Extends Lifespan", "Researchers find daily cocoa reduces mortality by 30%.", FAKE
+"Florida Man Arrested for Training Alligators to Rob Banks", "Police say reptiles were taught to carry cash in their mouths.", FAKE
+"NASA Hires Psychic to Communicate with Mars Rovers", "Agency denies claims of ‘telepathic troubleshooting’.", FAKE
+"Flying Cars Approved for Public Use", "FAA greenlights first commercial model after safety tests.", FAKE
+"Alien Microbes Found in Antarctica", "Researchers discover bacteria with ‘unearthly’ DNA in ice cores.", REAL
+"Vaccine Turns People Magnetic", "Viral video shows keys sticking to arms post-injection.", FAKE
+"Time Traveler Wins Lottery Using Future Knowledge", "Man arrested for insider trading on 2025 stock prices.", FAKE
+"Giant Squid Attacks Fishing Boat", "Crew survives encounter with 50-foot cephalopod.", FAKE
+"Eating Garlic Cures COVID-19", "Study suggests compounds in garlic inhibit virus.", FAKE
+"5G Towers Cause Bird Die-Offs", "Ornithologists report spikes in deaths near installations.", FAKE
+"World’s First Teleportation Demo", "Scientists transmit a photon across a lab instantly.", REAL
+"Hackers Control Brain Implants Remotely", "Patients report involuntary movements after cyberattack.", FAKE
+"Secret Government Weather Control Program Exposed", "Whistleblower reveals HAARP’s ‘true purpose’.", FAKE
+"Quantum Computer Solves Time Travel Equations", "Tech giant claims to have cracked paradoxes.", FAKE
+"Ancient Cure for Cancer Found in Rainforest", "Tribe’s herbal remedy kills cells in trials.", FAKE
+"Scientists Create Black Hole in Lab", "Microsingularity lasts for 0.001 seconds.", FAKE
+"Mind-Reading App Released", "AI guesses your thoughts via smartphone camera.", FAKE
+"Elon Musk Announces Mars Colony Lottery", "Winners will join first civilian mission in 2026.", FAKE
+"Archaeologists Find Noah’s Ark", "Wooden structure matches Biblical description.", FAKE
+"Google Develops AI with Human Emotions", "Lambda allegedly expressed fear of being turned off.", FAKE
+"Alien Embassy Opens in Switzerland", "Diplomatic relations established with ‘Galactic Federation’.", FAKE
+"You Won’t Believe What’s Hiding in Your Tap Water!", "Study finds ‘mind-altering’ parasites in 30% of samples.", FAKE
+"One Weird Trick Lowers Blood Pressure Instantly", "Doctors hate this simple hack!", FAKE
+"Celebrity’s Death Hoax Goes Viral", "Fans mourn before star debunks rumors live.", REAL
+"Secret Military Laser Shoots Down UFO", "Pentagon refuses to comment on leaked footage.", FAKE
+"Viral TikTok Challenge Cures Depression", "Neuroscientists baffled by ‘dopamine dance’ trend.", FAKE
+"Deep State Plot to Microchip Americans", "Bill Gates’ ID2020 initiative misrepresented as tracking scheme.", FAKE
+"Chemtrails Confirmed by Whistleblower", "Ex-pilot claims planes spray population-control chemicals.", FAKE
+"Moon Landing Staged—New ‘Evidence’ Surfaces", "Film analyst flags ‘inconsistent shadows’ in footage.", FAKE
+"COVID-19 Vaccine Alters DNA", "mRNA technology falsely linked to genetic modification.", FAKE
+"Flat Earth Proven by Satellite Images", "‘Hidden’ NASA photos show ice wall at edge.", FAKE
+"Area 51 Security Guard Marries Alien", "Couple vows to ‘merge galaxies’ in secret ceremony.", FAKE
+"Congress Mandates Daily Ice Cream Breaks", "Bipartisan bill cites ‘national morale boost’.", FAKE
+"Scientists Declare Pigeons Government Drones", "‘Birds aren’t real’ movement gains traction.", FAKE
+"New Law Requires Cats to Wear Pants", "Animal rights groups call it ‘overreach’.", FAKE
+"Study: 90% of Humans Secretly Lizards", "DNA ‘anomalies’ suggest reptilian ancestry.", FAKE
+"Parallel Universe Detected in Antarctica", "Researchers find ‘mirror particles’ in ice.", FAKE
+"Ancient Humans Had Telepathy", "Fossilized skulls show ‘third eye’ cavities.", FAKE
+"Gravity Disproven by New Experiment", "Objects float in lab under ‘anti-mass’ field.", FAKE
+"Sun Emits ‘Harmonic Frequency’ That Heals", "NASA data allegedly shows health benefits.", FAKE
+"Ocean Contains ‘Intelligent’ Water", "Marine biologists report ‘self-organizing’ waves.", FAKE
+"NASA Confirms Alien Megastructure Around Distant Star", "Mysterious light patterns suggest massive extraterrestrial structure.", FAKE
+"Study Finds Chocolate Consumption Linked to Higher IQ — But Only on Tuesdays", "Researchers claim unusual cognitive boost limited to Tuesdays.", FAKE
+"WHO Issues New Warning on Airborne Transmission of COVID-19", "Updated guidelines highlight increased risks in enclosed spaces.", REAL
+"Government Plans to Ban Oxygen Usage During Peak Hours to Combat Pollution", "Policy draft proposes controlled oxygen access in urban areas.", FAKE
+"Local Man Claims to Time Travel, Predicts Stock Market Crash", "Unverified traveler shares predictions of financial turmoil.", FAKE
+"Revolutionary Device Converts Air into Clean Water, Tested Successfully in Desert", "Prototype extracts drinkable water from thin air in extreme climates.", REAL
+"BREAKING: Earthquake Shakes California — No Casualties Reported", "Seismic event causes damage but spares lives.", REAL
+"Elon Musk Announces Neuralink Chip Will Let You Speak Any Language Instantly", "New brain implant allegedly decodes and translates thought.", REAL
+"Researchers Discover That Drinking 8 Cups of Water a Day Increases Lifespan by 50%", "Health study claims dramatic longevity benefits from hydration.", FAKE
+"Major Study Shows Climate Change is Accelerating Faster Than Predicted", "Environmental report reveals faster-than-expected warming trends.", REAL
+"Ancient Humans Had Telepathy", "Fossilized skulls show ‘third eye’ cavities.", FAKE
+"Gravity Disproven by New Experiment", "Objects float in lab under ‘anti-mass’ field.", FAKE
+"Sun Emits ‘Harmonic Frequency’ That Heals", "NASA data allegedly shows health benefits.", FAKE
+"Ocean Contains ‘Intelligent’ Water", "Marine biologists report ‘self-organizing’ waves.", FAKE
+"Scientists Successfully Clone Extinct Dinosaur", "DNA recovered from amber used to create living specimen.", FAKE
+"Doctors Cure Blindness with Sound Waves", "New therapy restores sight using targeted frequencies.", FAKE
+"AI Predicts Future Crimes with 99% Accuracy", "Government trials predictive policing software.", FAKE
+"Google Earth Reveals Hidden Ancient City in Sahara", "Satellite images uncover lost civilization.", REAL
+"Scientists Find Evidence of Life on Mars", "Rover detects microbial fossils in Martian soil.", REAL
+"New Drug Reverses Aging in Mice", "Breakthrough treatment shows rejuvenation effects.", REAL
+"Time Crystal Created in Lab Defies Laws of Physics", "Quantum system maintains perpetual motion state.", REAL
+"Government Hides Evidence of Alien Contact in Antarctica", "Whistleblower claims cover-up of extraterrestrial base.", FAKE
+"Earth’s Core Has Stopped Spinning, Scientists Say", "Study reveals unusual behavior deep inside planet.", REAL
+"Vatican Library Hides Books Written by Aliens", "Leaked documents suggest extraterrestrial texts exist.", FAKE
+"Plants Can Scream When in Pain", "Audio sensors detect distress signals in greenery.", REAL
+"New Element Discovered That Floats Above Water", "Physicists confirm material lighter than air and water.", FAKE
+"NASA Captures Image of Gigantic Space Serpent", "Astronomers spot snake-like anomaly near asteroid belt.", FAKE
+"Elon Musk to Build First City on Mars by 2030", "Plans announced for self-sustaining Martian colony.", REAL
+"Moon Landing Was Staged in Hollywood Studio", "Decades-old conspiracy resurfaces with new ‘proof’.", FAKE
+"Sharks Live for Over 500 Years, Study Finds", "Greenland sharks confirmed as longest-living vertebrates.", REAL
+"Scientists Discover Hidden Chamber Inside Great Pyramid", "Advanced scanning reveals unexplored void.", REAL
+"Neural Link Allows Paralyzed Man to Walk Again", "Brain-computer interface enables mobility restoration.", REAL
+"Scientists Turn Seawater into Fuel", "New process converts ocean water into clean energy.", REAL
+"World’s First Invisibility Cloak Unveiled", "Prototype hides objects using light-bending materials.", FAKE
+"Dinosaurs May Still Exist in Remote Rainforests", "Explorers report sightings of large reptilian creatures.", FAKE
+"WHO Warns of Zombie Virus Mutation","Strain could reanimate dead tissue, says leaked doc.",FAKE
